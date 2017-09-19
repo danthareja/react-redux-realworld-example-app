@@ -1044,7 +1044,7 @@ describe('Kitchen Sink', function(){
 
     })
 
-    it('cy.writeFile() - write to a file', function(){
+    xit('cy.writeFile() - write to a file', function(){
       // You can write to a file with the specified contents
 
       // Use a response from a request to automatically
